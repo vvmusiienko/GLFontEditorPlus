@@ -1,0 +1,11 @@
+Thumbs.db
+*.obj
+*.exe
+fuck.txt
+*.tmp
+*.tds
+config.dat
+Log.html
+MHEngine.dll
+*.~*
+temp.bmp
